@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap-grid.min.css";
 export default class Details extends Component {
     render() {
     return (
-        <div className='#'>
+        <div className='card'>
             <div class="grids">
                 <div class="g-col">
                     <div className='picture'> <img height="90px" width= "90px"  src={"image1.jpg"} /> </div>

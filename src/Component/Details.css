@@ -12,9 +12,15 @@ h3{
     border: 2px solid rgba(0, 0, 0, 0.274);
     width: 23%;
     display: flex;
+    border-radius: 3px;
 }
 
 P{
     margin-left: 1rem;
     font-size: 15px;
+}
+
+.card{
+    margin:1.5rem 8rem 0 8rem ;
+    border: none;
 }
