@@ -1,0 +1,24 @@
+.container{
+    border: 2px solid rgba(0, 0, 0, 0.274);
+}
+
+.grid{
+    display: flex;
+    justify-content: space-around;
+}
+
+.g-col-4{
+    border: 2px solid rgba(0, 0, 0, 0.274);
+    margin: 3rem 0 3rem 0 ;
+    width: 23%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    font-size: 20px;
+}
+
+h2{
+    margin-left: 2.5rem;
+    margin-top: 4rem;
+}
